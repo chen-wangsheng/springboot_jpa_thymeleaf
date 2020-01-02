@@ -67,6 +67,10 @@ public class UserController {
         return "redirect:/";
 
     }
+    @RequestMapping("/show")
+    public void show(){
+        System.out.println("测试git");
+    }
 
 
 }

@@ -9,6 +9,7 @@ import javax.persistence.*;
 /**
  * @author 陈旺生
  * @create 2019-12-31 20:43
+ * 用户实体类
  */
 @Data
 @NoArgsConstructor
